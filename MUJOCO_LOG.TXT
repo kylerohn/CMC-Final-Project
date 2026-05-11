@@ -1,3 +1,0 @@
-Mon May  4 15:51:33 2026
-ERROR: mjv_cameraFrustum: fixed camera id is outside valid range
-
